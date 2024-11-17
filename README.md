@@ -1,8 +1,4 @@
-- 👋 Hi, I’m `Chinmay P.`
-- 👀 I’m interested in `...`
-- 🌱 I’m currently learning `...`
-- 💞️ I’m looking to collaborate on `...`
-- 📫 How to reach me `...`
+## 👋 Hi, I’m `Chinmay P.` "[ChinmayP79](https://github.com/ChinmayP79)"
 
 <!---
 chinmayp79/chinmayp79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
